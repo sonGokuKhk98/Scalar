@@ -1,0 +1,42 @@
+{
+    "customer_name": "John Doe",
+    "balance_sheets": {
+      "b0": [
+        {
+          "date": "2023-01-01",
+          "transaction": "1",
+          "description": "Opening Balance",
+          "credit": 0.00,
+          "debit": 0.00,
+          "balance": 1000.00
+        },
+        {
+          "date": "2023-01-05",
+          "transaction": "2",
+          "description": "Deposit",
+          "credit": 500.00,
+          "debit": 0.00,
+          "balance": 1500.00
+        }
+      ],
+      "b1": [
+        {
+          "date": "2023-02-01",
+          "transaction": "1",
+          "description": "Opening Balance",
+          "credit": 0.00,
+          "debit": 0.00,
+          "balance": 2000.00
+        },
+        {
+          "date": "2023-02-10",
+          "transaction": "2",
+          "description": "Withdrawal",
+          "credit": 0.00,
+          "debit": 500.00,
+          "balance": 1500.00
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,1 @@
+Function factorial_for executed with input at 100 on 2023-09-09 22:11:03.014555 
